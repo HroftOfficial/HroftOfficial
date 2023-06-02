@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Aleksandr
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently learning NestJs Typescript React Mikroservices
-- 📫 How to reach me sagdinov-service@yandex.ru
-<!-- - 💞️ I’m looking to collaborate on ... -->
+<!-- - 📫 How to reach me sagdinov-service@yandex.ru
+- 💞️ I’m looking to collaborate on ... -->
 
 
 <!---
